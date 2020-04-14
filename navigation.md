@@ -1,5 +1,5 @@
 # DirtWiki
-
+[gimmick:theme](cosmo)
 [Menu Item 1]()
 
   * # SubMenu Heading 1
@@ -16,4 +16,3 @@
 - - - -
 [Menu Item 3](item3.md)
 
-[gimmick:theme](cosmo)
